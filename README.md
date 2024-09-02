@@ -8,4 +8,4 @@ This screenshot includes the readme sample I generated through the app and the t
 
 
 
-Walkthrough video link(https://youtu.be/e_5PW5-7TsY)
+Walkthrough video link[https://youtu.be/e_5PW5-7TsY]
